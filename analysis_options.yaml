@@ -1,0 +1,15 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+
+linter:
+  rules:
+    - avoid_print
+    - require_trailing_commas
+    - prefer_single_quotes
+    - cascade_invocations
+    - always_use_package_imports
+    - sort_child_properties_last
+    - sort_constructors_first
+    - sort_unnamed_constructors_first
+    - unnecessary_string_interpolations
